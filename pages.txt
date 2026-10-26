@@ -1,0 +1,6 @@
+# pages published to the results site (paths relative to outputs/exp)
+E018-fp-movi-model-stats-vs-pose/scatter/20261018-215626/index.html
+E023-fp-movi-trellis2-vs-sam3d/plots-all/20261023-152926/index.html
+E023-fp-movi-trellis2-vs-sam3d/viewer-all/20261023-152934/index.html
+E022-fp-movi-render-select/analysis/20261020-211012/index.html
+E025-fp-movi-alignpose/viewer/20261025-212430/index.html
